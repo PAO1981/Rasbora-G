@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página en GitHub Pages</title>
+</head>
+<body>
+    <header>
+        <h1>Esta es mi primera página con GitHub Pages</h1>
+    </header>
+    <main>
+        <section>
+            <p>¡Gracias GitHub por hacer esto posible!</p>
+            <p>Estoy emocionado(a) de comenzar a construir y compartir mi contenido con el mundo.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 PAULO OTALORA PORTILLA. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<rasbora.jpg></rasbora.jpg>.</p>
